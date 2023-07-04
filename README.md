@@ -10,3 +10,4 @@
 
 Check the website here :-
 
+https://deepakjha802.github.io/Sorting-Simulator/
