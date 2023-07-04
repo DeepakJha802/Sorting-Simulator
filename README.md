@@ -1,4 +1,5 @@
-# Sorting Visualization
+
+# Sorting-Simulator
 
 - Bubble Sort
 - Selection Sort
@@ -9,4 +10,3 @@
 
 Check the website here :-
 
-# Sorting-Simulator
